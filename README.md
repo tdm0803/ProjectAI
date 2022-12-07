@@ -1,2 +1,2 @@
 # ProjectAI
-Personal Information Detection and Deletion SYstem
+Personal Information Detection and Deletion System
